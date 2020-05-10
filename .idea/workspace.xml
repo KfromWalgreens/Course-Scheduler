@@ -35,7 +35,7 @@
     <configuration name="CourseSchedulerr" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CourseSchedulerr" />
       <module name="CourseScheduler" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CourseScheduler" />
+      <option name="PROGRAM_PARAMETERS" value="coursedata.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,10 +78,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584397261064" />
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584481019145">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584558400093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584481019145" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584558400093" />
+    <state x="441" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584557649908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584557649908" />
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584489840342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1584489840342" />
     <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584397285298">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -90,22 +98,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="357" y="79" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584477871288" />
-    <state width="1323" height="173" key="GridCell.Tab.0.bottom" timestamp="1584485011842">
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom" timestamp="1584559268028">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584485011842" />
-    <state width="1323" height="173" key="GridCell.Tab.0.center" timestamp="1584485011841">
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584559268028" />
+    <state width="1323" height="173" key="GridCell.Tab.0.center" timestamp="1584559268028">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584485011841" />
-    <state width="1323" height="173" key="GridCell.Tab.0.left" timestamp="1584485011841">
+    <state width="1323" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584559268028" />
+    <state width="1323" height="173" key="GridCell.Tab.0.left" timestamp="1584559268027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584485011841" />
-    <state width="1323" height="173" key="GridCell.Tab.0.right" timestamp="1584485011841">
+    <state width="1323" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584559268027" />
+    <state width="1323" height="173" key="GridCell.Tab.0.right" timestamp="1584559268028">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584485011841" />
+    <state width="1323" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584559268028" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1584481265801">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,5 +122,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="71" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584395766071" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1584487836497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584487836497" />
   </component>
 </project>

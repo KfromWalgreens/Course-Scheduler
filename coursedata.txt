@@ -1,7 +1,7 @@
 Programming Design, Fall 2017
 Kelvin * Bryant * Cherry Hall * 303
 Java Programming
-Zybooks 
+Zybooks
 1
 Advanced Operating Systems, Fall 2017
 Edward * Carr * McNair Hall * 503
